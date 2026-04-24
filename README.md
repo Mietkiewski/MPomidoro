@@ -16,7 +16,7 @@ Break interval time in Minutes: 5
 Intervals Count: 3
 ```
 ```
-Pomidoro
+MPomidoro
 Plan the weekly tasks
 3 x 15min 5min
 
