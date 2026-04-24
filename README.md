@@ -48,7 +48,9 @@ Research shows that short, structured work cycles improve focus and reduce cogni
 
 ## Scientific Background
 Pomodoro leverages several well‑documented cognitive mechanisms. The Zeigarnik Effect shows that the brain stays more engaged with tasks that are intentionally interrupted, which makes it easier to return with focus. The Starting Ritual Effect lowers the mental barrier to beginning work, while Timeboxing increases concentration by giving the mind a clear endpoint. Each completed interval triggers a Dopamine Loop — a small reward that reinforces the habit through predictable progress.
+
 Gamification amplifies these effects. Small goals create frequent rewards, predictable cycles strengthen habits, and visible progress aligns with the Progress Principle, one of the strongest drivers of motivation. Breaks activate the Incubation Effect, allowing the brain to continue processing information in the background.
+
 A short written reflection at the end of each session engages the Self‑Explanation Effect, reinforcing learning and memory. It also creates a sense of progress and contributes to Narrative Identity — the internal story that shapes how we see ourselves. Together, these mechanisms form a simple system that supports focus, consistency, and long‑term productivity.
 
 ## Download
